@@ -1,0 +1,10 @@
+{
+  "name": "STX Pixels #1",
+  "description": "Owner-editable pixel tile on Stacks (testnet).",
+  "image": "https://github.com/Jakob33g/stx-pixels-assets/blob/main/images/1.png",
+  "attributes": [
+    { "trait_type": "Collection", "value": "STX Pixels" },
+    { "trait_type": "Editable",   "value": "Owner can update" },
+    { "trait_type": "Token ID",   "value": "1" }
+  ]
+}
